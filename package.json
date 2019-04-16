@@ -1,6 +1,6 @@
 {
   "name": "express-helmet-headers",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "express app with helmet's security headers added",
   "main": "index.js",
   "scripts": {
