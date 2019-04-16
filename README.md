@@ -1,5 +1,5 @@
 ![npm](https://img.shields.io/npm/v/npm.svg) 
-![npm](https://img.shields.io/npm/v/express.svg)
+![express](https://img.shields.io/npm/v/express.svg)
 
 # Express-helmet-headers
 Express app with essential security headers from helmetjs. its a learnig project. not for production.
