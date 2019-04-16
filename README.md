@@ -1,5 +1,4 @@
-[![star this repo](http://githubbadges.com/star.svg?user=vishnuroshan&repo=express-helmet-headers&style=flat)](https://github.com/vishnuroshan/express-helmet-headers)
-[![fork this repo](http://githubbadges.com/fork.svg?user=vishnuroshan&repo=express-helmet-headers&style=flat)](https://github.com/vishnuroshan/express-helmet-headers/fork)
+![npm](https://img.shields.io/npm/v/npm.svg)
 
 # Express-helmet-headers
 Express app with essential security headers from helmetjs. its a learnig project. not for production.
