@@ -23,7 +23,7 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 
 ## License
 
-This project is licensed under the GNU public License - see the LICENSE file for details
+This project is licensed under ISC
 
 
 ## Dependencies
