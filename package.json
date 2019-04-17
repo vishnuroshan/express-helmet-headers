@@ -1,6 +1,6 @@
 {
   "name": "express-helmet-headers",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "express app with helmet's security headers added",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,20 @@
   },
   "author": "vishnu",
   "keywords": [
+    "express",
     "helmet",
     "security",
-    "express",
     "connect",
     "hsts",
     "iframe",
     "xss",
     "https"
   ],
+  "repository": {},
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "gh-badges": "^2.1.0",
     "helmet": "^3.16.0"
-  }
+  },
+  "devDependencies": {}
 }
